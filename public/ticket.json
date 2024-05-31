@@ -1,0 +1,10 @@
+[
+  {
+    "id": "assignedEmail",
+    "display": "Assigned Email"
+  },
+  {
+    "id": "assignedName",
+    "display": "Assigned Name"
+  }
+]
